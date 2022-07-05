@@ -1,0 +1,8 @@
+body {
+    background-color: lightseagreen;
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+h1, .recipe-list {
+    text-align: center;
+}
